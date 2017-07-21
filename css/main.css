@@ -166,6 +166,11 @@ ul.nostyle i {
   height: auto;
   padding: 22px 15px 21px;
 }
+
+.navbar-default .navbar-text .navbar-link{
+    color: #45aed6;
+}
+
 @media only screen and (min-width: 768px) {
   #main-menu.navbar-default {
     background: rgba(255, 255, 255, 0.9);
