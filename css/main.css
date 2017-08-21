@@ -247,10 +247,13 @@ ul.nostyle i {
   font-size: 36px;
   line-height: 1;
   text-transform: uppercase;
-  color: #fff;
+  color: #717171;
 }
 #main-slider .slider-inner h2 > span {
   color: #45aed6;
+}
+#main-slider .slider-inner h4{
+  color: #601680;
 }
 #main-slider .slider-inner .btn {
   margin-top: 10px;
@@ -323,7 +326,7 @@ ul.nostyle i {
   line-height: 1;
 }
 #cta2 h2 > span {
-  color: #45aed6;
+  color: #D06CE5;
 }
 #features {
   padding: 100px 0;
